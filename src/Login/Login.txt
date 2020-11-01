@@ -1,1 +1,3 @@
 Implemented Login Feature
+- Modified by Developer-B
+  - Added missing change
